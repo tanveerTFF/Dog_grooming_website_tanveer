@@ -13,19 +13,19 @@ import { AiFillYoutube, AiFillInstagram, AiFillGithub } from 'react-icons/ai';
 export const navigation = [
   {
     name: 'home',
-    href: '#',
+    href: '#home',
   },
   {
     name: 'prices',
-    href: '#',
+    href: '#prices',
   },
   {
     name: 'contact',
-    href: '#',
+    href: '#contact',
   },
   {
     name: 'get an appointment',
-    href: '#',
+    href: '#appointment',
   },
 ];
 
@@ -218,6 +218,6 @@ export const social = [
   },
   {
     icon: <AiFillGithub />,
-    href: '#',
+    href: 'https://github.com/tanveerTFF',
   },
 ];
