@@ -12,6 +12,6 @@ I followed the tutorial to learn React + Tailwind, made my own edits, and deploy
 - EmailJS
 - Vercel for deployment
 
-🚀 Live Site: [Click here](https://your-site.vercel.app)
+🚀 Live Site: [Click here](https://dog-grooming-website-tanveer.vercel.app)
 
 🙏 Thanks to Cristian for the original structure!
